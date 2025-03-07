@@ -1,8 +1,8 @@
 function App() {
   return (
     <div>
-      <h1>Your Name</h1>
-      <p>Contact: your.email@example.com</p>
+      <h1>Oshiv Bansal</h1>
+      <p>Contact: oshiv@gmail.com</p>
     </div>
   );
 }
